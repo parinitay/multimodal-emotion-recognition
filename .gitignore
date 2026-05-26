@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+
+*.pth
+*.wav
+
+temp.wav
+recorded.wav
+
+models/saved/
+
+Results/*.npy
+
+.ipynb_checkpoints/
